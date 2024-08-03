@@ -25,3 +25,34 @@ varibles:
 2.assing a value to the varible(initilazatation)
 variable creation :
 syntax=dataype nameofthevarible;
+
+naming a variables:
+1.letters,numbers,underscores
+2.varible name dose not start with numbers 
+examples: hello,score,noofwickets
+invalid:1over,2over
+valid:_overs
+3.does not use key words
+4.varibes case sensitive:(a,A,Over.over)
+
+
+type safety :
+type conversion
+1.implicit
+2.explicit 
+adv
+1.type safety
+2.better performance
+dis
+1.data loss
+2.code complexity
+
+maros:
+macro is apiece of a code which can assigined a value.and this value can be used anywhere in the code .and upon using the macro,the original code piece/snippet will be used.
+syntax=#define name code
+
+#define(x,y) code
+
+type range macros:
+it already define we use it 
+
