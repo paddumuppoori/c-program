@@ -1,12 +1,11 @@
-/* 
-add two numbers 2+3=5
-*/
 #include<iostream>
 using namespace std;
 int main(){
-     int a=2,b=3,c;
+     int a,b,c;
      
-     //multiple of two numbers
+     cout<<"enter two values:"<<endl;
+     
+     cin>>a>>b;
      c=a+b;
      cout<< c<<endl;
 }
