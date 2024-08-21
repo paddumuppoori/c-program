@@ -6,5 +6,5 @@ int main(){
      cin>>s;
      cout<<s<<endl;
      return 0;
-     
+      
 }
